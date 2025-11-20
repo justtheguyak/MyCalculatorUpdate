@@ -2,11 +2,11 @@
 
 A sleek, professional calculator app built with **Android Studio (Kotlin & XML)**. It features a modern dark UI, persistent calculation history, and a custom **in-app auto-update system** powered by GitHub.
 
-![App Banner](https://via.placeholder.com/1000x400?text=Modern+Calculator+App) 
 ## ✨ Features
 
 * **Standard Arithmetic:** Addition, Subtraction, Multiplication, Division.
-* **📝 Persistent History:** * Saves calculations automatically using `SharedPreferences`.
+* **📝 Persistent History:**
+    * Saves calculations automatically using `SharedPreferences`.
     * History remains even after closing the app.
     * Beautiful card-based UI for history items.
     * "Clear History" functionality.
@@ -14,14 +14,9 @@ A sleek, professional calculator app built with **Android Studio (Kotlin & XML)*
     * Professional Dark Theme.
     * Responsive layout using `LinearLayout` weights (works on all screen sizes).
     * Custom rounded buttons and vector icons.
-* **🔄 Self-Updating System:** * Checks a remote GitHub repository for updates.
+* **🔄 Self-Updating System:**
+    * Checks a remote GitHub repository for updates.
     * Automatically downloads and installs the new APK if a newer version is detected.
-
-## 📱 Screenshots
-
-| Main Screen | History View | Update Prompt |
-|:-----------:|:------------:|:-------------:|
-| <img src="path_to_screenshot1.png" width="200"> | <img src="path_to_screenshot2.png" width="200"> | <img src="path_to_screenshot3.png" width="200"> |
 
 ## 🛠️ Tech Stack
 
